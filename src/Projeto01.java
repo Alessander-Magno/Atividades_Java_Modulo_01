@@ -44,10 +44,10 @@ public class Projeto01
     
     public static double ler(Scanner scan)
     {
-        System.out.printf("Digite novamente um segundo número(maior que zero): ");
+        System.out.printf("Digite novamente um segundo número(diferente de zero): ");
         double num02 = scan.nextDouble();
         
-        num02 = (num02 <= 0) ? (ler(scan)) : num02;
+        num02 = (num02 == 0) ? (ler(scan)) : num02;
 
         return num02;
     }
@@ -66,7 +66,7 @@ public class Projeto01
         System.out.printf("Digite o segundo número: ");
         double num02 = scan.nextDouble();
 
-        num02 = (num02 <= 0) ? (ler(scan)) : num02;
+        num02 = (num02 == 0) ? (ler(scan)) : num02;
 
         System.out.println("Calculando com valores decimais: ");
         soma(num01, num02);
