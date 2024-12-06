@@ -1,0 +1,3 @@
+Remetente: magno, Nome: Boobassauro, Idade: 73, Tipo: Tartaruga, Raça: jabuti cereja, Personalidade: paciente
+Remetente: magno, Nome: Nick, Idade: 3, Tipo: Cachorro, Raça: Dobermann, Personalidade: Prestativo
+Remetente: magno, Nome: Pumba, Idade: 1, Tipo: Javali, Raça: javali africano, Personalidade: amigavel
