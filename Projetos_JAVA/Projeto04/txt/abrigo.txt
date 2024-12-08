@@ -1,0 +1,7 @@
+Nome: Napoleao, Idade: 2, Tipo: Cachorro, Raça: Labrador, Personalidade: Lider
+Nome: Socrates, Idade: 5, Tipo: Cachorro, Raça: Shiba, Personalidade: Filosofo
+Nome: Boobassauro, Idade: 73, Tipo: Tartaruga, Raça: jabuti cereja, Personalidade: paciente
+Nome: Pumba, Idade: 1, Tipo: Javali, Raça: javali africano, Personalidade: amigavel
+Nome: Rango, Idade: 12, Tipo: Calango, Raça: Boladao, Personalidade: xerife
+Nome: Alfred, Idade: 345, Tipo: Dragao, Raça: viralata, Personalidade: meigo
+Nome: Jose, Idade: 97, Tipo: Porquinho da india, Raça: games, Personalidade: preguicoso
