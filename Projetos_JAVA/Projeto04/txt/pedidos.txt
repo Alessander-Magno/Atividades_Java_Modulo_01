@@ -1,0 +1,5 @@
+Remetente: magnata.com, Nome: Alfred, Idade: 345, Tipo: Dragao, Raça: viralata, Personalidade: meigo
+Remetente: magnata.com, Nome: pomni, Idade: 2, Tipo: ponei, Raça: holandes, Personalidade: ativo
+Remetente: gui8@gmail.com, Nome: Jose, Idade: 97, Tipo: Porquinho da india, Raça: games, Personalidade: preguicoso
+Remetente: gui@gmail.com, Nome: Jose, Idade: 97, Tipo: Porquinho da india, Raça: games, Personalidade: preguicoso
+Remetente: nico1@gmail.com, Nome: pomni, Idade: 2, Tipo: ponei, Raça: holandes, Personalidade: ativo

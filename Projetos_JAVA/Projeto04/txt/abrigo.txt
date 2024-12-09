@@ -1,0 +1,3 @@
+Nome: Alfred, Idade: 345, Tipo: Dragao, Raça: viralata, Personalidade: meigo
+Nome: pomni, Idade: 2, Tipo: ponei, Raça: holandes, Personalidade: ativo
+Nome: huxley, Idade: 21, Tipo: Cachorro, Raça: Husky, Personalidade: Programador
