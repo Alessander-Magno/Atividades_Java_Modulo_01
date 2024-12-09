@@ -1,0 +1,1 @@
+Código de ADM: 234, Nome: min, Email: pontocom, Senha: pass
